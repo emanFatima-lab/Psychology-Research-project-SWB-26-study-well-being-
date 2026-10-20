@@ -29,3 +29,5 @@ We will NOT use any real student data. Only fake examples for learning:
 
 ## 6. What is a README?
 README file is the main introduction file of a repository. It tells others what the project is about.
+# Next step
+Next, we will create a simple project notes file as a sample.
